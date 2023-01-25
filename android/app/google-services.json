@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835507423082",
+    "project_id": "quickrchat-cf6c5",
+    "storage_bucket": "quickrchat-cf6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835507423082:android:9c1a6ebdbbddadba64c713",
+        "android_client_info": {
+          "package_name": "com.example.quickrchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835507423082-lltci5g7c70dvs6dmoavl70uhcokjhp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxeptLKxRQwpOFRtI1z-G8N0FXq8gqRAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835507423082-lltci5g7c70dvs6dmoavl70uhcokjhp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
